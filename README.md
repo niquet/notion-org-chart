@@ -1,7 +1,7 @@
 # Notion Organizational Chart Integration
 Organizational charts are great for visualizing reporting relationships and team roles in businesses, nonprofits, educational institutions, and government agencies. They can also be used to visually manage corporate entities. This README describes how to embed the Notion org chart widget into a Notion page and manage the org chart natively from that page.
 
-<img src="https://github.com/niquet/notion-org-chart/blob/main/notion_worlds_best_boss.png" width="100.00%" height="auto">
+<img src="https://github.com/niquet/notion-org-chart/blob/main/readme_hero.png" width="100.00%" height="auto">
 
 ## Motivation
 This project came about in two dimensions. First, out of frustration that I can't easily create and display org charts programmatically. Second, I manage a lot of things in Notion - it's an amazing tool and saves time. It's obvious that there needed to be some sort of flowchart or org chart function for this, but there wasn't. When I discovered the Notion Developer API, the idea became more solid and the interest in an org chart that is natively integrated and managed in a Notion page came to life.
